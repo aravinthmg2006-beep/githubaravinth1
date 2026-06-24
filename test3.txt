@@ -1,7 +1,0 @@
-hi this test3.txt file 
-here i am going to pull this to vs code and make changes on it 
-and then going to push it to the git and then to github 
-and then going to delete this 
-
-ok i am just pulled ths message from github
-now i want to make this changes avaliable in github
