@@ -10,3 +10,6 @@ and then going to delete this
 
 ok i am just pulled ths message from github
 now i want to make this changes avaliable in github
+
+
+hi
